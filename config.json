@@ -1,0 +1,17 @@
+{
+  "audioInput": "Microphone (USB Audio Device)",
+  "lang": "fr-FR",
+  "os": "windows",
+  "devices": {
+    "lights": [
+      {
+        "name": "Name 1",
+        "serialport": 9600
+      },
+      {
+        "name": "Name 2",
+        "serialport": 9600
+      }
+    ]
+  }
+}

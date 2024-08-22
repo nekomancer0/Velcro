@@ -1,0 +1,8 @@
+.env
+node_modules/
+google_credentials.json
+files/*.mp3
+files/*.wav
+package-lock.json
+files/*.mp4
+.vscode/
